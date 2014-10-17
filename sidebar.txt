@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smq:home|Door43 (smq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smq|d43-smq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smq/archive/master.zip|d43-smq.zip]]
+
+**Recent Changes**
+{{changes>ns = smq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smq|Ethnologue data]]
+
